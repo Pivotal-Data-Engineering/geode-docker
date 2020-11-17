@@ -1,4 +1,4 @@
-# Building the container image
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br># Building the container image
 
 The current Dockerfile is based on a CentOS 6 image, downloads JDK 8, clone the Apache Geode git repository, starts a build and execute the basic tests.
 
